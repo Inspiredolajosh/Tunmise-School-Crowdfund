@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\DELL\\Desktop\\Joshua\\tunmise\\genesis\\src\\contracts\\Genesis.sol": {
-      "lastModificationDate": 1675100447824,
-      "contentHash": "5534347ea4d1ba3f8222362b0856728b",
-      "sourceName": "src/contracts/Genesis.sol",
+    "C:\\Users\\DELL\\Documents\\GitHub\\Tunmise-School-Crowdfund\\src\\contracts\\Tunmise.sol": {
+      "lastModificationDate": 1675762152538,
+      "contentHash": "67dbd3a1201227f551e34057dbfa38a2",
+      "sourceName": "src/contracts/Tunmise.sol",
       "solcConfig": {
         "version": "0.8.7",
         "settings": {
@@ -33,7 +33,7 @@
         "^0.8.7"
       ],
       "artifacts": [
-        "Genesis"
+        "Schoolcrowdfund"
       ]
     }
   }
